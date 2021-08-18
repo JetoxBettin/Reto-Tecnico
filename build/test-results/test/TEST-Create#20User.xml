@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Create User" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-08-18T13:01:58" hostname="DESKTOP-EML6SDD" time="0.053">
+  <properties/>
+  <testcase name="Successful user registration" classname="Create User" time="0.053">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@422aff1d
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2b2bee0f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6674e162
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Successful user registration:Given Jeferson is a user who wants to create an account on the platform, When He sends the information required for registration
+| strName | strLastName | strEmail | strMonth | strEmail | strMonth | day | year | strCity | postal | strPassword | strConfirm |
+| Jeferson | Bettin | jeferson.bettin@cun.edu.co | Junio | jeferson.bettin@cun.edu.co | Junio | 10 | 1994 | Chía, Cundinamarca | 250001 | SoyPKfO@6F%A | SoyPKfO@6F%A |, Then He must obtain a virtual account to be able to enter when required
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Successful user registration:Given Jeferson is a user who wants to create an account on the platform, When He sends the information required for registration
+| strName | strLastName | strEmail | strMonth | strEmail | strMonth | day | year | strCity | postal | strPassword | strConfirm |
+| Jeferson | Bettin | jeferson.bettin@cun.edu.co | Junio | jeferson.bettin@cun.edu.co | Junio | 10 | 1994 | Chía, Cundinamarca | 250001 | SoyPKfO@6F%A | SoyPKfO@6F%A |, Then He must obtain a virtual account to be able to enter when required]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Successful user registration:Given Jeferson is a user who wants to create an account on the platform, When He sends the information required for registration
+| strName | strLastName | strEmail | strMonth | strEmail | strMonth | day | year | strCity | postal | strPassword | strConfirm |
+| Jeferson | Bettin | jeferson.bettin@cun.edu.co | Junio | jeferson.bettin@cun.edu.co | Junio | 10 | 1994 | Chía, Cundinamarca | 250001 | SoyPKfO@6F%A | SoyPKfO@6F%A |, Then He must obtain a virtual account to be able to enter when required]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Successful user registration
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
